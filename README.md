@@ -1,4 +1,5 @@
 Desafio DIO Instagram
+
 Propósito : se familiarizar mais com flexbox e responsividade
 
 Ao projeto original adicionei:
